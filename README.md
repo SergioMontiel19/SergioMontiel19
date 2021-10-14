@@ -2,7 +2,7 @@
 - 👀 I’m interested in Science Materials, Quantum physics, Python, Languages.
 - 🌱 I’m currently learning Phyton, AZ-900.
 - 💞️ I’m looking to collaborate on Science data .
-- 📫 How to reach me ... Send me MD
+- 📫 How to reach me ... Send me DM
 
 <!---
 SergioMontiel19/SergioMontiel19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
